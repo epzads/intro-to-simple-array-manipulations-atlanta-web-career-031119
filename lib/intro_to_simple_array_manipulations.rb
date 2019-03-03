@@ -10,7 +10,7 @@ def using_unshift(array,string)
   
 end 
 
-def using_pop(array,string)
+def using_pop(array)
   
   return array.pop
 end 
@@ -59,3 +59,6 @@ end
     
     return array.delete_at(integer)
   end   
+  
+  
+  
