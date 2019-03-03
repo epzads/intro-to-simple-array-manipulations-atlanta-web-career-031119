@@ -48,6 +48,6 @@ def using_uniq(array)
   
 
 def using_flatten(array)
- return  arrray.flatten 
+ return  array.flatten 
 end   
   
