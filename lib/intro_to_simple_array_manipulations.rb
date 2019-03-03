@@ -58,3 +58,4 @@ end
   def using_delete_at(array,integer)
     
     return array.delete(array[string])
+  end   
